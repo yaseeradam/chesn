@@ -142,7 +142,7 @@ export default function LeadershipPage() {
                                         👑
                                     </div>
                                 </div>
-                                <h3 className="text-lg sm:text-xl font-black mb-1">Lukman Abdulrazak</h3>
+                                <h3 className="text-lg sm:text-xl font-black mb-1">Mr. Lukman Abdulrazak</h3>
                                 <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full mb-3" style={{ background: 'var(--accent)', color: 'white' }}>
                                     <span className="text-xs sm:text-sm font-bold">CHAIRPERSON</span>
                                 </div>
@@ -181,7 +181,7 @@ export default function LeadershipPage() {
                                         📄
                                     </div>
                                 </div>
-                                <h3 className="text-lg sm:text-xl font-black mb-1">Yakubu Danazumi</h3>
+                                <h3 className="text-lg sm:text-xl font-black mb-1">Mr. Yakubu Danazumi</h3>
                                 <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full mb-3" style={{ background: 'var(--accent)', color: 'white' }}>
                                     <span className="text-xs sm:text-sm font-bold">SECRETARY GENERAL</span>
                                 </div>
