@@ -125,7 +125,7 @@ export default function LeadershipPage() {
                                     <div className="w-full h-full rounded-full bg-gradient-to-br from-accent to-primary-600 p-2">
                                         <div className="w-full h-full rounded-full bg-white flex items-center justify-center overflow-hidden">
                                             <Image
-                                                src="/leaders/PAssport.png"
+                                                src="/leaders/chairman.jpg"
                                                 alt="Lukman Abdulrazak"
                                                 width={288}
                                                 height={288}
@@ -164,7 +164,7 @@ export default function LeadershipPage() {
                                     <div className="w-full h-full rounded-full bg-gradient-to-br from-accent to-primary-600 p-2">
                                         <div className="w-full h-full rounded-full bg-white flex items-center justify-center overflow-hidden">
                                             <Image
-                                                src="/leaders/SuitMe.png"
+                                                src="/leaders/ECCYaqub.png"
                                                 alt="Yakubu Danazumi"
                                                 width={288}
                                                 height={288}
